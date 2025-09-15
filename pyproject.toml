@@ -18,7 +18,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.10.0"
 lightkurve = "^2.5.0"
-skypatrol = "^0.6.16"
+skypatrol = "^0.6.20"
 
 
 [tool.poetry.dev-dependencies]
