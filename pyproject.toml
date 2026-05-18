@@ -22,7 +22,7 @@ skypatrol = "^0.6.16"
 
 
 [tool.poetry.dev-dependencies]
-black = ">=22.3.0"
+black = ">=26.5.0"
 flake8 = ">=4.0.1"
 
 [tool.black]
